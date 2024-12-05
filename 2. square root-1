@@ -1,0 +1,8 @@
+# code  to find the square root-1
+
+num = int(input("Enter your num : "))
+import math
+
+root_num = math.sqrt(num)
+
+print(f"THe root {num} of my number is = {root_num}")
